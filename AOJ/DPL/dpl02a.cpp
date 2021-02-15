@@ -14,5 +14,9 @@ int main() {
     int V, E;
     cin >> V >> E;
 
+    for (int i = 0; i < E; i++) {
+        for (int j = 0; j < 3; j++) {
+        }
+    }
     return 0;
 }
